@@ -1,6 +1,6 @@
 
 @DS_Introductionpage
-Feature: Data Structure Home page
+Feature: Data Structure Home page - DS_Introduction
  Background:  User is Logged In
 	Given I navigate to the login page
 	When I submit username and password
