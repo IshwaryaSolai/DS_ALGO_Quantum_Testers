@@ -9,12 +9,11 @@ import io.cucumber.testng.CucumberOptions;
 		features = {"src/test/resources/features"}, //location of feature files
 		glue= "stepdefinitions") //location of step definition files
 		
-	
 					
 public class Test_Runner extends AbstractTestNGCucumberTests{
 	
 	@Override
-	   @DataProvider(parallel = false)
+	   @DataProvider(parallel = true)
  public Object[][] scenarios() {
 				
 		return super.scenarios();

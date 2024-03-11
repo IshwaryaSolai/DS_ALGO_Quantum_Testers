@@ -33,6 +33,10 @@ public class DS_IntroductionPageObjects {
 		
 		Common_Step_Def.driver.findElement(Getstarted_btn).click();
 	}
+	
+	
+	
+	
 	public void clicktimecompilicity () {
 		
 		 Common_Step_Def.driver.findElement(Time_cmp ).click();

@@ -6624,3 +6624,52 @@ For more information on native dependency injection please refer to https://test
 [INFO ]2024-03-1016:31:58.678[main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.EmailableReporter2@893081e: 23 ms
 [INFO ]2024-03-1016:31:58.688[main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4b37d1a4: 10 ms
 [INFO ]2024-03-1016:31:58.688[main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.internal.ExitCodeListener@34114276: 0 ms
+[INFO ]2024-03-1020:23:49.651[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ]2024-03-1020:23:49.657[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ]2024-03-1020:23:49.660[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ]2024-03-1020:23:49.661[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ]2024-03-1020:23:49.662[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ]2024-03-1020:23:49.663[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ]2024-03-1020:23:49.664[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ]2024-03-1020:23:49.665[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ]2024-03-1020:23:49.667[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ]2024-03-1020:23:49.681[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+[INFO ]2024-03-1020:23:49.683[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ]2024-03-1020:23:49.684[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ]2024-03-1020:23:49.684[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ]2024-03-1020:23:49.685[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ]2024-03-1020:23:49.687[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ]2024-03-1020:23:49.687[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ]2024-03-1020:23:49.691[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ]2024-03-1020:23:49.692[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ]2024-03-1020:23:49.693[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ]2024-03-1020:23:49.694[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ]2024-03-1020:23:49.696[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ]2024-03-1020:23:49.697[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ]2024-03-1020:23:49.697[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ]2024-03-1020:23:49.697[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ]2024-03-1020:23:49.704[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[INFO ]2024-03-1020:23:49.704[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ]2024-03-1020:23:49.707[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ]2024-03-1020:23:49.707[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ]2024-03-1020:23:49.708[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ]2024-03-1020:23:49.708[main]org.testng.internal.Utils1)-[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ]2024-03-1020:23:49.723[main]org.testng.internal.Utils1)-[TestNG] Running:
+  C:\Users\ishwa\AppData\Local\Temp\testng-eclipse-1535858630\testng-customsuite.xml
+
+[INFO ]2024-03-1020:23:49.749[main]org.testng.internal.Utils1)-[Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+[INFO ]2024-03-1020:23:57.091[TestNG-PoolService-3]utilities.Logger_Load1)-the user is on login page
+[INFO ]2024-03-1020:23:57.158[TestNG-PoolService-1]utilities.Logger_Load1)-the user is on login page
+[INFO ]2024-03-1020:23:57.217[TestNG-PoolService-8]utilities.Logger_Load1)-the user is on login page
+[INFO ]2024-03-1020:23:57.536[TestNG-PoolService-4]utilities.Logger_Load1)-the user is on login page
+[INFO ]2024-03-1020:23:57.600[TestNG-PoolService-7]utilities.Logger_Load1)-the user is on login page
+[INFO ]2024-03-1020:23:57.665[TestNG-PoolService-2]utilities.Logger_Load1)-the user is on login page
+[INFO ]2024-03-1020:23:57.802[TestNG-PoolService-3]utilities.Logger_Load1)-the user is on login page
+[INFO ]2024-03-1020:23:57.874[TestNG-PoolService-1]utilities.Logger_Load1)-the user is on login page
+[INFO ]2024-03-1020:23:57.945[TestNG-PoolService-8]utilities.Logger_Load1)-the user is on login page
+[INFO ]2024-03-1020:24:01.795[main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.jq.Main@42fb8c87: 170 ms
+[INFO ]2024-03-1020:24:01.811[main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.FailedReporter@5fbe155: 16 ms
+[INFO ]2024-03-1020:24:01.907[main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.XMLReporter@1bb740f2: 96 ms
+[INFO ]2024-03-1020:24:01.970[main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.EmailableReporter2@490c7a83: 63 ms
+[INFO ]2024-03-1020:24:02.097[main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5edc70ed: 127 ms
+[INFO ]2024-03-1020:24:02.097[main]org.testng.internal.Utils1)-[TestNG] Time taken by org.testng.internal.ExitCodeListener@4317850d: 0 ms
